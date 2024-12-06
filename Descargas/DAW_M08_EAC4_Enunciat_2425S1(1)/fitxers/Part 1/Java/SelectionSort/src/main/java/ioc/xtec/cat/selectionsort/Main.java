@@ -6,6 +6,8 @@ public class Main {
 
 public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        System.out.println("El meu nom es Miriam Martin Valiente ");
+        System.out.println("He apres molt fent el modul 8 de DAW, encara que hi hagi estat dur");
 
         System.out.println("Introdueix la mida de l'array: ");
         int size = scanner.nextInt();
