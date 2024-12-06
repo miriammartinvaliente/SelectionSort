@@ -3,7 +3,7 @@ package ioc.xtec.cat.selectionsort;
 import java.util.Scanner;
 
 public class Main {
-
+/** */
 public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("El meu nom es Miriam Martin Valiente ");
